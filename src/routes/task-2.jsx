@@ -1,5 +1,6 @@
 import UserDemoComponent from '../components/UserDemoComponent'
 import Loading from '../components/Loading'
+import Badge from '../components/Badge'
 import classes from "./task-2.module.scss";
 
 const TaskTwo = () => {
